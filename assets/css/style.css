@@ -34,13 +34,13 @@ body::before {
 
 ::-webkit-scrollbar {
   width: 10px;
-  background-color: #fff;
+  background-color: #010101;
 }
 ::-webkit-scrollbar-thumb {
   background-color: #18d26e;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #067ded;
+  background-color: #20b05c;
 }
 
 a {
