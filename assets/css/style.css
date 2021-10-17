@@ -32,6 +32,17 @@ body::before {
   }
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #fff;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #18d26e;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #067ded;
+}
+
 a {
   color: #18d26e;
   text-decoration: none;
